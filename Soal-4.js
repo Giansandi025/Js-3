@@ -6,14 +6,6 @@ fetch('https://jsonplaceholder.typicode.com/users')
 
 
 
-	
-
-
-
-
-
-
-
 /* 	import fetch from `cross-fetch`
 	fetch('https://jsonplaceholder.typicode.com/users')
 	.then(function (response) {
