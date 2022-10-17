@@ -1,4 +1,4 @@
-const listUsername = ["yuji", "lidia", "dani", "yaya"]
+const listUsername = ["yuji", "nana", "dani", "yaya"]
 
 const step1 = () => {
   console.log("Mengecek username...")
